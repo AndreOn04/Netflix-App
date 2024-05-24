@@ -1,4 +1,4 @@
-#Projeto de Site Similar à Netflix
+ # Projeto de Site Similar à Netflix
 
 * Projeto de aprendizado de site semelhante à Netflix.
 * Desenvolvido com ReactJS para a interface e CSS para estilização.
